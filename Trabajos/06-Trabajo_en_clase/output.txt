@@ -1,0 +1,47 @@
+efrain@MacBook-Pro-de-Efrain Trabajo_06 % g++ clasificar_notas.cpp -o clasificar_notas.x
+efrain@MacBook-Pro-de-Efrain Trabajo_06 % ./clasificar_notas.x                       
+Ingrese una nota de 0 a 100 o -1 para terminar: 100
+Ingrese una nota de 0 a 100 o -1 para terminar: 90
+Ingrese una nota de 0 a 100 o -1 para terminar: 49
+Ingrese una nota de 0 a 100 o -1 para terminar: 93
+Ingrese una nota de 0 a 100 o -1 para terminar: 05
+Ingrese una nota de 0 a 100 o -1 para terminar: 06
+Ingrese una nota de 0 a 100 o -1 para terminar: 96
+Ingrese una nota de 0 a 100 o -1 para terminar: 84
+Ingrese una nota de 0 a 100 o -1 para terminar: 74
+Ingrese una nota de 0 a 100 o -1 para terminar: 63
+Ingrese una nota de 0 a 100 o -1 para terminar: 64
+Ingrese una nota de 0 a 100 o -1 para terminar: 73
+Ingrese una nota de 0 a 100 o -1 para terminar: 52
+Ingrese una nota de 0 a 100 o -1 para terminar: 15
+Ingrese una nota de 0 a 100 o -1 para terminar: 32
+Ingrese una nota de 0 a 100 o -1 para terminar: 345
+Nota invalidaIngrese una nota de 0 a 100 o -1 para terminar: 34
+Ingrese una nota de 0 a 100 o -1 para terminar: 34
+Ingrese una nota de 0 a 100 o -1 para terminar: 24
+Ingrese una nota de 0 a 100 o -1 para terminar: -1
+ Cantidad de notas validas ingresadas:  
+1 : 100
+2 : 90
+3 : 49
+4 : 93
+5 : 5
+6 : 6
+7 : 96
+8 : 84
+9 : 74
+10 : 63
+11 : 64
+12 : 73
+13 : 52
+14 : 15
+15 : 32
+16 : 34
+17 : 34
+18 : 24
+Clasificacion:Reprobados: 11
+Aprobados: 3
+Sobresalientes: 4
+Promedio : 54.8889
+Nota maxima: 100
+Nota minima: 5
