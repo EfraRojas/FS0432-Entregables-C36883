@@ -1,0 +1,13 @@
+Respuestas de las preguntas A, B y C.
+
+A. ¿Cómo cambia el tiempo de ejecución al aumentar el número de incógnitas N?
+El tiempo de ejecucion crece a medida que aumenta el N, por que el metodo de elimiacion gaussiana tardara procesando las operaciones
+
+B) ¿Es consistente con el escalamiento O(N³)?
+
+Si, ya que el creciminto si tiene el comportamiento cubico mostrado en la grafica.
+Ya que se podia aanlizar numericamente entre las diferencias de tiempo con los que fueron con N mayores, pero en la grafica se muestra bien.
+
+C) ¿Qué dificultades podrían presentarse con millones de incógnitas?
+
+El costo computacional, posiblemente este metodo a mi computadora le pueda costar con un millon de incognitas, pero tomar en cuenta que hay otros mas eficientes que logran en mismo resultado, usando bibliotecas que son en C,
